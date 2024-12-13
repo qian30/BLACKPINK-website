@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bp.xslt"?>
+<bp> 
+   <title>JISOO</title>
+   <slogan>
+      This is Jisoo
+   </slogan>
+   <songsrc>
+      https://www.youtube.com/embed/YudHcBIxlYw?si=4GtuxZpB_VlatHXZ
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/z50NUuwI66c?si=tN88dwVYipR9iCdD
+   </songsrc>
+</bp>

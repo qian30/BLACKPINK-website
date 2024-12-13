@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bp.xslt"?>
+<bp> 
+   <title>LISA</title>
+   <slogan>
+      This is Lisa
+   </slogan>
+   <songsrc>
+      https://www.youtube.com/embed/awkkyBH2zEo?si=NggBKhzvBlfPo-Cp
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/dNCWe_6HAM8?si=To7GGRp_L7DUYB9H
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/NFnAuiklEug?si=gClcFn8CjpVfN1hc
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/hbcGx4MGUMg?si=QHm2xYgqf2GP3oAV
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/UxXY_hR_wzo?si=I5L0aI8O1G8H4U7i
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/iYWGRGiYdHU?si=TzgJUBdn9jASe-AF
+   </songsrc>
+</bp>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<root>
+	<photo>
+		<bp>
+			<name>Jisoo</name>
+			<pic>images/jisoo.jpg</pic>
+			<hlink>jisoo.xml</hlink>
+			<color>Red</color>
+		</bp>
+		<bp>
+			<name>Jennie</name>
+			<pic>images/jennie.jpg</pic>
+			<hlink>jennie.xml</hlink>
+			<color>Green</color>
+		</bp>
+		<bp>
+			<name>Rosé</name>
+			<pic>images/rose.png</pic>
+			<hlink>rose.xml</hlink>
+			<color>Blue</color>
+		</bp>
+		<bp>
+			<name>Lisa</name>
+			<pic>images/lisa.jpg</pic>
+			<hlink>lisa.xml</hlink>
+			<color>Black</color>
+		</bp>
+	</photo>
+</root>

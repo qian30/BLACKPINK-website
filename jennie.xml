@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bp.xslt"?>
+<bp> 
+   <title>JENNIE</title>
+   <slogan>
+      This is Jennie
+   </slogan>
+   <songsrc>
+      https://www.youtube.com/embed/b73BI9eUkjM?si=NeKdKXQHgxOj4u9C
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/3yILnlnIqyU?si=RykqgTlvSjCSWD_a
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/xfqBQ2XhBCg?si=RQ1MuXgzBGFPU_IT
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/o09p-cRcl0Q?si=ZVw8syvLvHh7Pwap
+   </songsrc>
+   <songsrc>
+      https://www.youtube.com/embed/bB3-CUMERIU?si=1B4kN7YKrp_SN5W-
+   </songsrc>
+</bp>
